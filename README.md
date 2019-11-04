@@ -13,7 +13,7 @@ As we know performance of transfer learning could depend on many factors, such a
    4. New dataset is large and very different from the original dataset
    
    Example of similar/dissimilar dataset:
-   Since the ImageNet dataset used to train ResNet50 includes many dog pictures, our new dataset of dog breeds would be much more     
-   similar to it than a dataset that contains many types of leaves.
+   
+   Since the ImageNet dataset used to train ResNet50 includes many dog pictures, our new dataset of dog breeds would be much more    similar to it than a dataset that contains many types of leaves.
    
 Based on above scenarios, we could take different approach 
