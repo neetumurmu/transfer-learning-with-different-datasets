@@ -16,4 +16,8 @@ As we know performance of transfer learning could depend on many factors, such a
    
    Since the ImageNet dataset used to train ResNet50 includes many dog pictures, our new dataset of dog breeds would be much more    similar to it than a dataset that contains many types of leaves.
    
-Based on above scenarios, we could take different approach 
+Based on different scenarios, we need to take different approach towards solving problem, like we need to decide:
+
+   1. When to use fine-tuning
+   2. How to change later layers of models
+   3. How many early layers should we choose etc.
